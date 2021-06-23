@@ -8,7 +8,6 @@
 
   [ x ] Não é permitido cadastrar usuário sem e-mail
 
-
 - Cadastro de TAG
 
   [ x ] Não é permitido cadastrar mais de uma tag com omesmo nome
